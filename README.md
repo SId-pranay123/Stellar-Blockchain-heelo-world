@@ -23,7 +23,12 @@ This repository uses the recommended structure for a Soroban project:
 ## To Interact with the contract 
 
 ```bash
-cd sorobanjs
+    git clone https://github.com/SId-pranay123/Stellar-Blockchain-heelo-world.git
+```
+
+
+```bash
+cd sorobanjs && npm install
 ```
 
 - Run any script according to your need
